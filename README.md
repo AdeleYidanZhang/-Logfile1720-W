@@ -7,3 +7,4 @@
 **1/15-----------------------**
 1. Installed p5 and python mode on processing
 2. created 2 folder for python and p5 in 'logfile' repo
+3. Using formatting syntax foemat my README file

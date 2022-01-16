@@ -9,6 +9,7 @@
 2. created 2 folder for python and p5 in 'logfile' repo
 3. Using formatting syntax foemat my README file
 4. Setting up a p5.js project and making a sketch.
+
 **1/16-----------------------**
 1. Read through python beginner tutorial
 2. Making a sketch using python

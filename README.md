@@ -13,3 +13,7 @@
 **1/16-----------------------**
 1. Read through python beginner tutorial
 2. Making a sketch using python
+
+**1/17-----------------------**
+1. Check examples of p5js on website
+2. 

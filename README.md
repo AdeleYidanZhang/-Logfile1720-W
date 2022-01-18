@@ -16,4 +16,5 @@
 
 **1/17-----------------------**
 1. Check examples of p5js on website
-2. 
+2. Check examples of python on website
+3. using processing to play around with simple code

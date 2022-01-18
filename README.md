@@ -19,3 +19,4 @@
 2. Check examples of python on website
 3. using processing to play around with simple code
 4. download github desktop version
+5. Clone the logfile repo to my github desktop

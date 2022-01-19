@@ -30,3 +30,8 @@
 4. https://github.com/processing/p5.js/wiki/Local-server
 5. https://p5js.org/get-started/
 6. https://py.processing.org/tutorials/gettingstarted/
+
+**1/19-----------------------**
+1. Watched tutorial of extension produced by The Coding Train( Link below)
+2. downloaded demo from prof's repo
+4. https://www.youtube.com/watch?v=hkOTAmmuv_4&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS

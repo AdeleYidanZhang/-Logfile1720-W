@@ -26,9 +26,8 @@
 **1/18-----------------------**
 1. Created personal info file, uploaded to 'logfile' repo
 2. Read some articles to understand UI
-3. Read links posted on prof's repo
-4. https://github.com/processing/p5.js/wiki/Local-server
-5. https://p5js.org/get-started/
+3. Read link posted on [prof's repo about Local-server](https://github.com/processing/p5.js/wiki/Local-server)
+5. Read link posted on [prof's repo about p5js](https://p5js.org/get-started/)
 6. https://py.processing.org/tutorials/gettingstarted/
 
 **1/19-----------------------**

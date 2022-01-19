@@ -29,3 +29,4 @@
 3. Read links posted on prof's repo
 4. https://github.com/processing/p5.js/wiki/Local-server
 5. https://p5js.org/get-started/
+6. https://py.processing.org/tutorials/gettingstarted/

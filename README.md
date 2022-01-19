@@ -26,4 +26,4 @@
 **1/18-----------------------**
 1. Created personal info file, uploaded to 'logfile' repo
 2. Read some articles to understand UI
-3.
+3. 

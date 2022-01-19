@@ -28,3 +28,4 @@
 2. Read some articles to understand UI
 3. Read links posted on prof's repo
 4. https://github.com/processing/p5.js/wiki/Local-server
+5. https://p5js.org/get-started/

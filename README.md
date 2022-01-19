@@ -22,3 +22,7 @@
 3. using processing to play around with simple code
 4. download github desktop version
 5. Clone the logfile repo to my github desktop
+
+**1/18-----------------------**
+1. Created personal info file, uploaded to 'logfile' repo
+2. Read some articles to understand UI

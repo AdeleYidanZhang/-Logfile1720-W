@@ -28,7 +28,7 @@
 2. Read some articles to understand UI
 3. Read link posted on [prof's repo about Local-server](https://github.com/processing/p5.js/wiki/Local-server)
 5. Read link posted on [prof's repo about p5js](https://p5js.org/get-started/)
-6. https://py.processing.org/tutorials/gettingstarted/
+6. Read link posted on [prof's repo about python](https://py.processing.org/tutorials/gettingstarted/)
 
 **1/19-----------------------**
 1. Watched tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=hkOTAmmuv_4&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS)

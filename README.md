@@ -26,4 +26,5 @@
 **1/18-----------------------**
 1. Created personal info file, uploaded to 'logfile' repo
 2. Read some articles to understand UI
-3. 
+3. Read links posted on prof's repo
+4. https://github.com/processing/p5.js/wiki/Local-server

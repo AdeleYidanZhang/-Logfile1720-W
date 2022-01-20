@@ -35,7 +35,7 @@
 2. Watched another tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=9Tl3OmwrSaM&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=3)
 3. downloaded demo from prof's repo
 4. Posted demos on my repo for editing
-5.
 **1/20-----------------------**
 1. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=9Tl3OmwrSaM&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=3)
 2.  Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=ew9ut7ixIlI&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=4)
+3.  Posted new version demo of extension (edited some codes)

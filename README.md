@@ -31,6 +31,7 @@
 6. Read link posted on [prof's repo about python](https://py.processing.org/tutorials/gettingstarted/)
 
 **1/19-----------------------**
-1. Watched tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=hkOTAmmuv_4&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS)
-2. downloaded demo from prof's repo
-3. Posted demos on my repo for editing
+1. Watched one of the tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=hkOTAmmuv_4&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS)
+2. Watched another tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=9Tl3OmwrSaM&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=3)
+3. downloaded demo from prof's repo
+4. Posted demos on my repo for editing

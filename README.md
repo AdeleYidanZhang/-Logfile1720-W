@@ -46,3 +46,6 @@
 2. Read another [tutorial](https://www.geeksforgeeks.org/building-basic-chrome-extension/) posted on prof's repo
 3.  Read another [tutorial](https://open.chrome.360.cn/extension_dev/overview.html) from open.chrome.360.cn
 4. Read another [tutorial](https://developer.chrome.com/docs/extensions/mv3/manifest/)  from Google Developer
+
+**1/22-----------------------**
+1. Edited extension_demo code to new version

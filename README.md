@@ -44,3 +44,4 @@
 **1/21-----------------------**
 1. Read the [tutorial](https://medium.com/@TusharKanjariya/getting-started-with-developing-browser-extensions-eb4a7d8658b3) posted on prof's repo
 2. Read another [tutorial](https://www.geeksforgeeks.org/building-basic-chrome-extension/) posted on prof's repo
+3.  Read another [tutorial](https://open.chrome.360.cn/extension_dev/overview.html) from open.chrome.360.cn

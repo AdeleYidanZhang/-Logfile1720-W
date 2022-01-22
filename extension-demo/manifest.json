@@ -1,15 +1,24 @@
 {
-  "name": "Extension Demo",
-  "version": "1.0",
-  "description": "Build an Basic Extension!",
-  "permissions": ["activeTab"],
-  "browser_action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "img/icon16.png",
-      "32": "img/icon32.png",
-      "48": "img/icon48.png"
-    }
-  },
-  "manifest_version": 2
+   "manifest_version": 2,
+
+  "name": "Yidan's Extension Demo",
+  "version": "0.1.1.1",
+  "description": "Block Extension",
+ 
+ 
+  "content_scripts": [{
+    "matches": [
+      "<all_urls>"
+    ],
+    "js": ["content.js"]
+  }],
+  "background":{
+  "scripts":["background.js"]
+},
+"browser_action":{
+ 
+  "default_icon": "img/icon16.png"
+
 }
+  }
+ 

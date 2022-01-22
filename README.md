@@ -48,4 +48,4 @@
 4. Read another [tutorial](https://developer.chrome.com/docs/extensions/mv3/manifest/)  from Google Developer
 
 **1/22-----------------------**
-1. Edited extension_demo code to new version
+1. Edited extension_demo code to new version(uploaded)

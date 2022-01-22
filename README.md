@@ -31,6 +31,21 @@
 6. Read link posted on [prof's repo about python](https://py.processing.org/tutorials/gettingstarted/)
 
 **1/19-----------------------**
-1. Watched tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=hkOTAmmuv_4&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS)
-2. downloaded demo from prof's repo
-3. Posted demos on my repo for editing
+1. Watched one of the tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=hkOTAmmuv_4&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS)
+2. Watched another tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=9Tl3OmwrSaM&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=3)
+3. downloaded demo from prof's repo
+4. Posted demos on my repo for editing
+
+**1/20-----------------------**
+1. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=9Tl3OmwrSaM&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=3)
+2.  Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=ew9ut7ixIlI&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=4)
+3.  Posted new version demo of extension (edited some codes)
+
+**1/21-----------------------**
+1. Read the [tutorial](https://medium.com/@TusharKanjariya/getting-started-with-developing-browser-extensions-eb4a7d8658b3) posted on prof's repo
+2. Read another [tutorial](https://www.geeksforgeeks.org/building-basic-chrome-extension/) posted on prof's repo
+3.  Read another [tutorial](https://open.chrome.360.cn/extension_dev/overview.html) from open.chrome.360.cn
+4. Read another [tutorial](https://developer.chrome.com/docs/extensions/mv3/manifest/)  from Google Developer
+
+**1/22-----------------------**
+1. Edited extension_demo code to new version(uploaded)

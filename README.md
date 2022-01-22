@@ -40,3 +40,6 @@
 1. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=9Tl3OmwrSaM&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=3)
 2.  Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=ew9ut7ixIlI&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=4)
 3.  Posted new version demo of extension (edited some codes)
+
+**1/21-----------------------**
+1. Read the [tutorial](https://medium.com/@TusharKanjariya/getting-started-with-developing-browser-extensions-eb4a7d8658b3) posted on prof's repo

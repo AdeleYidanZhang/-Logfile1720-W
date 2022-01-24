@@ -52,5 +52,5 @@
 2. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=ew9ut7ixIlI&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=6)
 
 **1/23-----------------------**
-1. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=ew9ut7ixIlI&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=6)
+1. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=8zMMOdI5SOk&ab_channel=TheCodingTrain)
 

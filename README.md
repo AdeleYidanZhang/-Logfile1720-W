@@ -53,4 +53,5 @@
 
 **1/23-----------------------**
 1. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=8zMMOdI5SOk&ab_channel=TheCodingTrain)
+2. Edited part of my code
 

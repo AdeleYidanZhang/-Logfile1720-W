@@ -57,3 +57,4 @@
 3. Read an e-book about chrome extension
 
 **1/23-----------------------**
+1. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=IXXNIcQQLU8&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=6&ab_channel=TheCodingTrain)

@@ -63,3 +63,4 @@
 **1/25-----------------------**
 1. Watched manifest references from [Google Developer](https://developer.chrome.com/docs/extensions/mv3/manifest/)
 2. Watched some API references from [Google Developer](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+3. 

@@ -61,3 +61,4 @@
 2. Did a simple extension, uploaded to my repo
 
 **1/25-----------------------**
+1. Watched some API references from Google Developer

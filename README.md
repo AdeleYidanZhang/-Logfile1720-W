@@ -61,4 +61,5 @@
 2. Did a simple extension, uploaded to my repo
 
 **1/25-----------------------**
-1. Watched some API references from Google Developer
+1. Watched some API references from [Google Developer](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+2. 

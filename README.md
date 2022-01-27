@@ -67,4 +67,4 @@
 
 **1/26-----------------------**
 1. Read JavaScript OOP on prof's repo
-2. 
+2. Watched a tutorial of extension produced by [The Coding Train]()

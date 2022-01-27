@@ -66,3 +66,5 @@
 3. Edited part of my extension's code
 
 **1/26-----------------------**
+1. Read JavaScript OOP on prof's repo
+2. 

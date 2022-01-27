@@ -67,4 +67,4 @@
 
 **1/26-----------------------**
 1. Read JavaScript OOP on prof's repo
-2. Watched a tutorial of extension produced by [The Coding Train]()
+2. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=IXXNIcQQLU8&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=7)

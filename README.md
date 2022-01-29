@@ -78,3 +78,4 @@
 **1/28-----------------------**
 1. Watched some tutorials
 2. updated every thing I need for quiz1
+3. updated some code

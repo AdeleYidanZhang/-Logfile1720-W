@@ -70,3 +70,5 @@
 2. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=IXXNIcQQLU8&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=7)
 3. Edited part of my extension's code
 4. Downloaded p5.js library file on my laptop
+
+**1/27-----------------------**

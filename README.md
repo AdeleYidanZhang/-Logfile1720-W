@@ -81,4 +81,4 @@
 3. updated some code
 
 **1/29-----------------------**
-1.
+1. Watched some tutorials

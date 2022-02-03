@@ -94,3 +94,8 @@
 
 **2/1-----------------------**
 1. Created a new branch in my private repo
+2. Read some files about python
+
+**2/2-----------------------**
+1. Completed the questions about grounp project
+2. Searched info for the group project

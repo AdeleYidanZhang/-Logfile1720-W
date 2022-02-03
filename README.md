@@ -72,8 +72,8 @@
 4. Downloaded p5.js library file on my laptop
 
 **1/27-----------------------**
-1.Did quiz 1 one Git
-2.Updated a new repo
+1. Did quiz 1 one Git
+2. Updated a new repo
 
 **1/28-----------------------**
 1. Watched some tutorials

@@ -93,3 +93,4 @@
 2. Finished my extension and uploaded it to my private repo
 
 **2/1-----------------------**
+1. Created a new branch in my private repo

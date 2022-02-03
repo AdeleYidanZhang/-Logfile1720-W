@@ -56,6 +56,47 @@
 2. Edited part of my code
 3. Read an e-book about chrome extension
 
-**1/23-----------------------**
+**1/24-----------------------**
 1. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=IXXNIcQQLU8&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=6&ab_channel=TheCodingTrain)
 2. Did a simple extension, uploaded to my repo
+
+**1/25-----------------------**
+1. Watched manifest references from [Google Developer](https://developer.chrome.com/docs/extensions/mv3/manifest/)
+2. Watched some API references from [Google Developer](https://developer.chrome.com/docs/extensions/reference/browserAction/)
+3. Edited part of my extension's code
+
+**1/26-----------------------**
+1. Read JavaScript OOP on prof's repo
+2. Watched a tutorial of extension produced by [The Coding Train](https://www.youtube.com/watch?v=IXXNIcQQLU8&list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&index=7)
+3. Edited part of my extension's code
+4. Downloaded p5.js library file on my laptop
+
+**1/27-----------------------**
+1. Did quiz 1 one Git
+2. Updated a new repo
+
+**1/28-----------------------**
+1. Watched some tutorials
+2. updated every thing I need for quiz1
+3. updated some code
+
+**1/29-----------------------**
+1. Watched some tutorials
+2. Edited part of my extension's code.
+
+**1/30-----------------------**
+1. Read JavaScript OOP on prof's repo
+2.  Edited part of my extension's code.
+
+**1/31-----------------------**
+1. Happy spring festival!
+2. Finished my extension and uploaded it to my private repo
+
+**2/1-----------------------**
+1. Created a new branch in my private repo
+2. Read some files about python
+
+**2/2-----------------------**
+1. Completed the questions about grounp project
+2. Searched info for the group project
+3. 

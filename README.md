@@ -103,3 +103,7 @@
 **2/3-----------------------**
 1. Uploaded aome class notes
 2. Read the live code writton by prof
+
+**2/5-----------------------**
+1. Uploaded a processing code to logfile repo
+2. Trying to write a program to practice python

@@ -101,3 +101,5 @@
 2. Searched info for the group project
 3. 
 **2/3-----------------------**
+1. Uploaded aome class notes
+2. Read the live code writton by prof

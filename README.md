@@ -114,3 +114,6 @@
 3.  PLay around with easy code of python
 
 **2/7-----------------------**
+1.
+2.
+3.

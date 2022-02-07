@@ -86,7 +86,7 @@
 
 **1/30-----------------------**
 1. Read JavaScript OOP on prof's repo
-2.  Edited part of my extension's code.
+2. Edited part of my extension's code.
 
 **1/31-----------------------**
 1. Happy spring festival!
@@ -116,4 +116,4 @@
 **2/7-----------------------**
 1. Read some files about python
 2. Searched info for the group project
-3.
+3. Uploaded a processing code to logfile repo

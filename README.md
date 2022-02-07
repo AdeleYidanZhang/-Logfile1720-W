@@ -115,5 +115,5 @@
 
 **2/7-----------------------**
 1. Read some files about python
-2.
+2. Searched info for the group project
 3.

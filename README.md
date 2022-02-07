@@ -101,7 +101,7 @@
 2. Searched info for the group project
 3. 
 **2/3-----------------------**
-1. Uploaded aome class notes
+1. Uploaded some class notes
 2. Read the live code writton by prof
 
 **2/5-----------------------**
@@ -114,6 +114,6 @@
 3.  PLay around with easy code of python
 
 **2/7-----------------------**
-1.
+1. Read some files about python
 2.
 3.

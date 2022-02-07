@@ -107,3 +107,5 @@
 **2/5-----------------------**
 1. Uploaded a processing code to logfile repo
 2. Trying to write a program to practice python
+
+**2/6-----------------------**

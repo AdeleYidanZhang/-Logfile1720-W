@@ -109,4 +109,5 @@
 2. Trying to write a program to practice python
 
 **2/6-----------------------**
-1. 
+1.  Read some files about python
+2.  

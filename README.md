@@ -119,6 +119,6 @@
 3. Uploaded a processing code to logfile repo
 
 **2/9-----------------------**
-1.
+1. Uploaded live code file to logfile repo
 2.
 3.

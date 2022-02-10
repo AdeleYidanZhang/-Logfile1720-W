@@ -120,5 +120,5 @@
 
 **2/9-----------------------**
 1. Uploaded live code file to logfile repo
-2.Read through the live code
-3.
+2. Read through the live code
+3. Conmunnicate with my group members about the project

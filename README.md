@@ -117,3 +117,5 @@
 1. Read some files about python
 2. Searched info for the group project
 3. Uploaded a processing code to logfile repo
+
+**2/9-----------------------**

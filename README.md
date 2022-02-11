@@ -130,3 +130,4 @@
 
 **2/11-----------------------**
 1. Communicate with my group members about the group project
+2. Start to search some resources about the group project

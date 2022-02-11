@@ -127,3 +127,6 @@
 1. Conmunnicate with my group members about the project
 2. Searched some info about the group project
 3. downloaded library for my processing
+
+**2/11-----------------------**
+1. Communicate with my group members about the group project

@@ -133,3 +133,5 @@
 2. Start to search some resources about the group project
 
 **2/12-----------------------**
+
+**2/13-----------------------**

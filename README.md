@@ -137,3 +137,4 @@
 **2/13-----------------------**
 1.  Communicate with my group members about the group project
 2.  Finished group project phase 1
+3.  Searched some info about the group project

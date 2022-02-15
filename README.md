@@ -135,4 +135,5 @@
 **2/12-----------------------**
 
 **2/13-----------------------**
-1. 
+1.  Communicate with my group members about the group project
+2.  Finished group project phase 1

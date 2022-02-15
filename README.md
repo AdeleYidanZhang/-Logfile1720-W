@@ -140,5 +140,5 @@
 3.  Searched some info about the group project
 
 **2/14-----------------------**
-1.
+1. Searched for individual project 2
 2.

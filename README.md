@@ -132,8 +132,6 @@
 1. Communicate with my group members about the group project
 2. Start to search some resources about the group project
 
-**2/12-----------------------**
-
 **2/13-----------------------**
 1.  Communicate with my group members about the group project
 2.  Finished group project phase 1
@@ -141,4 +139,4 @@
 
 **2/14-----------------------**
 1. Searched for individual project 2
-2.
+2. Read info about lab project 2

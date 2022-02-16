@@ -143,4 +143,4 @@
 
 **2/15-----------------------**
 1. Searched API for my project 2
-2.
+2. Searched for individual project 2

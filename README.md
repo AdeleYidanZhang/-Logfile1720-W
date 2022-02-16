@@ -140,3 +140,5 @@
 **2/14-----------------------**
 1. Searched for individual project 2
 2. Read info about lab project 2
+
+**2/15-----------------------**

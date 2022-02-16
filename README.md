@@ -142,5 +142,5 @@
 2. Read info about lab project 2
 
 **2/15-----------------------**
-1.
+1. Searched API for my project 2
 2.

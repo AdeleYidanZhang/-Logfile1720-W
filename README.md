@@ -145,3 +145,6 @@
 1. Searched API for my project 2
 2. Searched for individual project 2
 3. checked the starter code uploaded by prof
+
+**2/16-----------------------**
+1. Read through the starter code uploaded by prof

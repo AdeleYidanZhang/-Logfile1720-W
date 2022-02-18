@@ -148,3 +148,6 @@
 
 **2/16-----------------------**
 1. Read through the starter code uploaded by prof
+
+**2/17-----------------------**
+1. uploaded some live code to my logfile

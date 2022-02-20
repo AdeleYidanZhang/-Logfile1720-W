@@ -151,3 +151,6 @@
 
 **2/17-----------------------**
 1. uploaded some live code to my logfile
+
+**2/20-----------------------**
+1. Struggling with my quiz 1

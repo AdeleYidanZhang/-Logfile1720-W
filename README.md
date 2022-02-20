@@ -153,4 +153,5 @@
 1. uploaded some live code to my logfile
 
 **2/20-----------------------**
-1. Struggling with my quiz 1
+1. Read through everything in quiz 2
+2. Struggling with my quiz 2

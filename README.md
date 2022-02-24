@@ -158,4 +158,4 @@
 3. Uploaded my quiz2 and other docs 
 
 **2/23-----------------------**
-1. 
+1.Found some tutorials about my lab 2 project

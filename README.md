@@ -158,4 +158,5 @@
 3. Uploaded my quiz2 and other docs 
 
 **2/23-----------------------**
-1.Found some tutorials about my lab 2 project
+1. Found some tutorials about my lab 2 project
+2. Read some files about python

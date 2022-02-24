@@ -161,4 +161,6 @@
 1. Found some tutorials about my lab 2 project
 2. Read some files about python
 3. search some resources about the group project
-4. 
+
+**2/24-----------------------**
+1. Found some tutorials about my lab 2 project

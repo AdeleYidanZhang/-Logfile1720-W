@@ -156,3 +156,6 @@
 1. Read through everything in quiz 2
 2. Struggling with my quiz 2
 3. Uploaded my quiz2 and other docs 
+
+**2/23-----------------------**
+1. 

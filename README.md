@@ -165,3 +165,4 @@
 **2/24-----------------------**
 1. Found some tutorials about my lab 2 project
 2. Gonna make a discord bot
+3. Starting my lab2 assignment code

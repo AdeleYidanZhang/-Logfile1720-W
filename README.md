@@ -160,3 +160,4 @@
 **2/23-----------------------**
 1. Found some tutorials about my lab 2 project
 2. Read some files about python
+3. search some resources about the group project

@@ -167,4 +167,5 @@
 2. Gonna make a discord bot
 3. Starting my lab2 assignment code
 
-**2/24-----------------------**
+**2/25-----------------------**
+1. Starting my lab2 assignment cod

@@ -171,3 +171,7 @@
 1. Starting my lab2 assignment code
 2. Watched some tutorial about making a bot
 3. Edited part of my code
+
+**2/27-----------------------**
+1. Watched some tutorial about making a bot
+2. Edited part of my code

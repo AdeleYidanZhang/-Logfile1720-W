@@ -178,3 +178,4 @@
 3. Created some basic function for my bot
 
 **2/28-----------------------**
+1. Edited part of my code

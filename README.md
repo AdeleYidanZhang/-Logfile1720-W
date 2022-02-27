@@ -176,4 +176,5 @@
 1. Watched some tutorial about making a bot
 2. Edited part of my code
 3. Created some basic function for my bot
-4. 
+
+**2/28-----------------------**

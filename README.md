@@ -181,3 +181,7 @@
 1. Edited part of my code
 2. Code of my bot is uploaded
 3. Readme of my project is uploaded
+
+**3/1-----------------------**
+1. Read through content of group project phase 2
+2.

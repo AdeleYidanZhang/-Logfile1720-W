@@ -184,4 +184,4 @@
 
 **3/1-----------------------**
 1. Read through content of group project phase 2
-2.
+2. Read articles about AR

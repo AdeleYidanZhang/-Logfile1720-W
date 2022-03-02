@@ -187,4 +187,4 @@
 2. Read articles about AR
 
 **3/2-----------------------**
-1.
+1. Read tutorials about AR

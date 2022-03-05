@@ -190,4 +190,4 @@
 1. Read tutorials about AR
 2. Communicate with my group members
 
-**3/2-----------------------**
+**3/3-----------------------**

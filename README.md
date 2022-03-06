@@ -190,7 +190,10 @@
 1. Read tutorials about AR
 2. Communicate with my group members
 
-**3/3-----------------------**
+**3/5-----------------------**
 1. Read tutorials about AR
 2. Communicate with my group members
 3. Discuss what part we should do in our group
+
+**3/6-----------------------**
+1. Start ro make the QR code for our group project

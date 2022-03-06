@@ -199,3 +199,4 @@
 1. Start ro make the QR code for our group project
 2. Searched some tutorials about AR
 3. Uploaded some sample code to my logfile
+4. Edited some part of my code

@@ -204,3 +204,4 @@
 **3/8-----------------------**
 1. Start ro make the QR code for our group project
 2. Searched some tutorials about AR
+3. Uploaded some sample code to my logfile

@@ -192,7 +192,7 @@
 
 **3/5-----------------------**
 1. Read tutorials about AR
-2. Communicate with my group members
+2. Communicate with my group members Communicate with my group members
 3. Discuss what part we should do in our group
 
 **3/6-----------------------**
@@ -211,3 +211,4 @@
 1. Finished the QR code for group project
 2. Read contents about lab3 project
 3. Edited some part of my code
+4. Communicate with my group members

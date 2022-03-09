@@ -208,4 +208,5 @@
 4. Edited some part of my code
 
 **3/9-----------------------**
-
+1. Finished the QR code for group project
+2. 

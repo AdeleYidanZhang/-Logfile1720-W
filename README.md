@@ -209,4 +209,4 @@
 
 **3/9-----------------------**
 1. Finished the QR code for group project
-2. 
+2. Read contents about lab3 project

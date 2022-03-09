@@ -210,3 +210,4 @@
 **3/9-----------------------**
 1. Finished the QR code for group project
 2. Read contents about lab3 project
+3. Edited some part of my code

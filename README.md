@@ -215,3 +215,5 @@
 
 **3/10-----------------------**
 1. Using the live code on repo
+2. Read contents about lab3 project
+3. 

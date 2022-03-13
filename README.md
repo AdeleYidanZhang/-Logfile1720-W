@@ -218,3 +218,6 @@
 2. Read contents about lab3 project
 3. Communicate with my group members
 4. import my pattern into the code
+
+**3/13-----------------------**
+1. Finished the ar-html of group project

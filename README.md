@@ -230,4 +230,4 @@
 
 **3/15-----------------------**
 1. Play around with AR code
-2. 
+2. Upload some live code to my logfile

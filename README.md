@@ -225,3 +225,4 @@
 
 **3/14-----------------------**
 1. Read contents about lab3 project
+2. Using the live code on repo

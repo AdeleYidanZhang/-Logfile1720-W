@@ -229,4 +229,5 @@
 3. Uploaded some sample code to my logfile
 
 **3/15-----------------------**
-1. 
+1. Play around with AR code
+2. 

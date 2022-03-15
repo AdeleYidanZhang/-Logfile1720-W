@@ -224,4 +224,4 @@
 2. uploaded the code to our group repo
 
 **3/14-----------------------**
-1. 
+1. Read contents about lab3 project

@@ -234,3 +234,4 @@
 3. Searched something about virtual environmnet
 
 **3/16-----------------------**
+1. setup heroku

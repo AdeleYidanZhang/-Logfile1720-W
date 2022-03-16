@@ -233,4 +233,4 @@
 2. Upload some live code to my logfile
 3. Searched something about virtual environmnet
 
-**3/15-----------------------**
+**3/16-----------------------**

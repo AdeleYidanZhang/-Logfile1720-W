@@ -235,3 +235,4 @@
 
 **3/16-----------------------**
 1. setup heroku
+2. read about the content of lab3

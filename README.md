@@ -239,4 +239,4 @@
 
 
 **3/17-----------------------**
-1. 
+1. setup the virtual environment for python

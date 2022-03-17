@@ -240,3 +240,4 @@
 
 **3/17-----------------------**
 1. setup the virtual environment for python
+2. connected heroku to my github repo

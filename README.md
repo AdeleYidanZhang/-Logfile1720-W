@@ -241,3 +241,5 @@
 1. setup the virtual environment for python
 2. connected heroku to my github repo
 3. tried the sample site
+
+**3/17-----------------------**

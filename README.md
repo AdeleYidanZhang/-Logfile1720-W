@@ -244,3 +244,4 @@
 
 **3/18-----------------------**
 1. read content about quiz3
+2. tested the vr code

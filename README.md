@@ -243,3 +243,4 @@
 3. tried the sample site
 
 **3/18-----------------------**
+1. read content about quiz3

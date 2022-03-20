@@ -252,3 +252,4 @@
 
 **3/20-----------------------**
 1. Countinue work on quiz 3
+2. Edited some part of my code

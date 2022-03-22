@@ -259,6 +259,6 @@
 1. Uploaded my quiz 3 to my private repo
 2. finished my quiz 3
 
-
 **3/22-----------------------**
 1. Read content about lab 3
+2. 

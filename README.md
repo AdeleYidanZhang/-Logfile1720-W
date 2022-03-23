@@ -263,4 +263,4 @@
 1. Read content about lab 3
 2. Set up pythonn virtual environment
 
-**3/22-----------------------**
+**3/23-----------------------**

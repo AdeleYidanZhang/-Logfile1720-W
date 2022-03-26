@@ -273,3 +273,4 @@
 
 **3/25-----------------------**
 1. uploaded some files to my repo
+2. checked the tutorial video on prof's repo

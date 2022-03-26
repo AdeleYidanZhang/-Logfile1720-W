@@ -268,4 +268,4 @@
 2. developed the app.py
 
 **3/24-----------------------**
-1. 
+1. checked the tutorial video on prof's repo

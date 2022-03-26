@@ -270,3 +270,5 @@
 **3/24-----------------------**
 1. checked the tutorial video on prof's repo
 2. Read content about lab4
+
+**3/24-----------------------**

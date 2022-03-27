@@ -277,4 +277,4 @@
 
 **3/26-----------------------**
 1. checked the tutorial video on prof's repo
-2. 
+2.  tested the vr code

@@ -276,3 +276,4 @@
 2. checked the tutorial video on prof's repo
 
 **3/26-----------------------**
+1. 

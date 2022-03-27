@@ -276,4 +276,5 @@
 2. checked the tutorial video on prof's repo
 
 **3/26-----------------------**
-1. 
+1. checked the tutorial video on prof's repo
+2. 

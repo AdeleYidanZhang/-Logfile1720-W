@@ -286,5 +286,6 @@
 **3/30-----------------------**
 1. uploaded README on my first_lastname repo
 2. think about lab 4 content
+3. communicate with my group members
 
 

@@ -289,6 +289,6 @@
 3. communicate with my group members
 
 **3/31-----------------------**
-1. 
+1. communicate with my group members
 
 

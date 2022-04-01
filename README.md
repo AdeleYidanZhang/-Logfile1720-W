@@ -292,4 +292,4 @@
 1. communicate with my group members
 
 **4/1-----------------------**
-1. 
+1. communicate with my group members

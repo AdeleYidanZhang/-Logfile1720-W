@@ -299,6 +299,6 @@
 1. read some content about lab4
 
 **4/3-----------------------**
-1.
+1. Communicate with my group member
 
 

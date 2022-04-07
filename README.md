@@ -305,4 +305,4 @@
 1.Start to do lab 4
 
 **4/7-----------------------**
-1. 
+1. Communicate with my group members

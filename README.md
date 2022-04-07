@@ -307,3 +307,4 @@
 **4/7-----------------------**
 1. Communicate with my group members
 2. Collecting info for my group project
+3. Collect GPS for my group project

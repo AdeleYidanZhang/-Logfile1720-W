@@ -310,4 +310,4 @@
 3. Collect GPS for my group project
 
 **4/9-----------------------**
-1. 
+1. Upload quiz 4 to my first_last name repo

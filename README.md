@@ -312,7 +312,6 @@
 **4/9-----------------------**
 1. Upload quiz 4 to my first_last name repo
 
-
 **4/10-----------------------**
 1. Dealing with quiz 4
 
@@ -321,3 +320,4 @@
 2. Uploaded mu quiz 4
 
 **4/12-----------------------**
+1. 

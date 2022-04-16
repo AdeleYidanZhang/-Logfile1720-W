@@ -323,4 +323,5 @@
 1. did some work for group project
 
 **4/16-----------------------**
-1. 
+1. Did some work for group project
+2. Uploaded some content for lab 4
